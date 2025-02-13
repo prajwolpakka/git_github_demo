@@ -6,3 +6,5 @@
     or alternatively: git add . //tracks all the files
 4. git commit -m "Commit Message here"
 5. git log --oneline //Gives the information of all the commits
+
+6. git pull first then only git push
