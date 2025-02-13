@@ -1,0 +1,1 @@
+This is an experiment, I calculated new things here, tested a lot and I think this is good enough to go in the main branch.
